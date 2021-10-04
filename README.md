@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @DanielCaps
+- 👋 Hi, I’m @DanielCaps (Daniel Neiva)
 - 👀 I’m interested in Software
 - 🌱 I’m currently learning .Net framework/core.
