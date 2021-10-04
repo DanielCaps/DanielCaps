@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DanielCaps
+- 👀 I’m interested in Software
+- 🌱 I’m currently learning .Net framework/core.
